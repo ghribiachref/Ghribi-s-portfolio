@@ -1,6 +1,6 @@
 import person from "../../assets/images/achrefghr.png";
-import CV_FR from "../../assets/cv/GhribiAchref-CV.pdf";
-import CV_EN from "../../assets/cv/GhribiAchref-Resume.pdf";
+import CV_FR from "../../assets/cv/Achref_Ghribi_CV.pdf";
+import CV_EN from "../../assets/cv/Achref_Ghribi_Resume.pdf";
 
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faDownload, faFolderOpen } from "@fortawesome/free-solid-svg-icons";
